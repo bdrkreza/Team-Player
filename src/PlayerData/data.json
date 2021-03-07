@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "fullName": "Mashrafe Bin Mortaza",
+        "username": "Mashrafe Mortaza",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg",
+        "country": "Bangladesh",
+        "age": "36 years 43 days",
+        "playingrole": "Bowler",
+        "batting": "Right Hand Bat",
+        "bowling": "Right Hand",
+        "salary": 59000,
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "company": {
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        }
+    },
+    {
+        "id": 2,
+        "fullName": "Tamim Iqbal Khan",
+        "username": "Tamim Iqbal",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg",
+        "country": "Bangladesh",
+        "email": "Shanna@melissa.tv",
+        "age": "31 years 346 days",
+        "playingrole": "Opening batsman",
+        "batting": "Left-hand bat",
+        "bowling": "Right Hand",
+        "salary": 50000,
+        "address": {
+            "street": "Victor Plains",
+            "suite": "Suite 879",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771",
+            "geo": {
+                "lat": "-43.9509",
+                "lng": "-34.4618"
+            }
+        },
+        "phone": "010-692-6593 x09125",
+        "website": "anastasia.net",
+        "company": {
+            "name": "Deckow-Crist",
+            "catchPhrase": "Proactive didactic contingency",
+            "bs": "synergize scalable supply-chains"
+        }
+    },
+    {
+        "id": 3,
+        "fullName": "Asif Ali",
+        "username": "Asif Ali",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/145600/145695.1.jpg",
+        "country": "Bangladesh",
+        "age": "29 years 150 days",
+        "playing role": "Middle-order batsman",
+        "batting": "Right Hand Bat",
+        "bowling": "Right-arm medium-fast",
+        "salary": 20000,
+        "email": "Nathan@yesenia.net",
+        "address": {
+            "street": "Douglas Extension",
+            "suite": "Suite 847",
+            "city": "McKenziehaven",
+            "zipcode": "59590-4157",
+            "geo": {
+                "lat": "-68.6102",
+                "lng": "-47.0653"
+            }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+            "name": "Romaguera-Jacobson",
+            "catchPhrase": "Face to face bifurcated interface",
+            "bs": "e-enable strategic applications"
+        }
+    },
+    {
+        "id": 4,
+        "fullName": "Laurie John Evans",
+        "username": "Laurie Evans",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/157100/157173.1.jpg",
+        "country": "England",
+        "age": "33 years 139 days",
+        "playingrole": "Top-order batsman",
+        "batting": "Right Hand Bat",
+        "bowling": "Right-arm offbreak",
+        "salary": 79000,
+        "email": "Julianne.OConner@kory.org",
+        "address": {
+            "street": "Hoeger Mall",
+            "suite": "Apt. 692",
+            "city": "South Elvis",
+            "zipcode": "53919-4257",
+            "geo": {
+                "lat": "29.4572",
+                "lng": "-164.2990"
+            }
+        },
+        "phone": "493-170-9623 x156",
+        "website": "kale.biz",
+        "company": {
+            "name": "Robel-Corkery",
+            "catchPhrase": "Multi-tiered zero tolerance productivity",
+            "bs": "transition cutting-edge web services"
+        }
+    },
+    {
+        "id": 5,
+        "fullName": "Hasan Mahmud",
+        "username": "Hasan Mahmud",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303249.jpg",
+        "country": "Bangladesh",
+        "age": "21 years 139 days",
+        "playingrole": "Bowler",
+        "batting": "Right Hand Bat",
+        "bowling": "Right-arm medium",
+        "salary": 40000,
+        "email": "Lucio_Hettinger@annie.ca",
+        "address": {
+            "street": "Skiles Walks",
+            "suite": "Suite 351",
+            "city": "Roscoeview",
+            "zipcode": "33263",
+            "geo": {
+                "lat": "-31.8129",
+                "lng": "62.5342"
+            }
+        },
+        "phone": "(254)954-1289",
+        "website": "demarco.info",
+        "company": {
+            "name": "Keebler LLC",
+            "catchPhrase": "User-centric fault-tolerant solution",
+            "bs": "revolutionize end-to-end systems"
+        }
+    },
+    {
+        "id": 6,
+        "fullName": "Jaker Ali Anik",
+        "username": "Jaker Ali",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/232500/232593.1.jpg",
+        "country": "Bangladesh",
+        "age": "23 years 6 days",
+        "playingrole": "Batsman",
+        "batting": "Right Hand Bat",
+        "bowling": "Right Hand",
+        "salary": 59000,
+        "email": "Karley_Dach@jasper.info",
+        "address": {
+            "street": "Norberto Crossing",
+            "suite": "Apt. 950",
+            "city": "South Christy",
+            "zipcode": "23505-1337",
+            "geo": {
+                "lat": "-71.4197",
+                "lng": "71.7478"
+            }
+        },
+        "phone": "1-477-935-8478 x6430",
+        "website": "ola.org",
+        "company": {
+            "name": "Considine-Lockman",
+            "catchPhrase": "Synchronised bottom-line interface",
+            "bs": "e-enable innovative applications"
+        }
+    },
+    {
+        "id": 7,
+        "fullName": "Mahedi Hasan",
+        "username": "Mahedi Hasan",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/286600/286686.1.jpg",
+        "country": "Bangladesh",
+        "age": "26 years 79 days",
+        "playingrole": "Top-order batsman",
+        "batting": "Right Hand Bat",
+        "bowling": "Right-arm offbreak",
+        "salary": 59000,
+        "email": "Telly.Hoeger@billy.biz",
+        "address": {
+            "street": "Rex Trail",
+            "suite": "Suite 280",
+            "city": "Howemouth",
+            "zipcode": "58804-1099",
+            "geo": {
+                "lat": "24.8918",
+                "lng": "21.8984"
+            }
+        },
+        "phone": "210.067.6132",
+        "website": "elvis.io",
+        "company": {
+            "name": "Johns Group",
+            "catchPhrase": "Configurable multimedia task-force",
+            "bs": "generate enterprise e-tailers"
+        }
+    },
+    {
+        "id": 8,
+        "fullName": "Mominul Haque",
+        "username": "Mominul Haque",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303146.jpg",
+        "country": "Bangladesh",
+        "age": "29 years 153 days",
+        "playingrole": "Middle-order batsman",
+        "batting": "Left-hand bat",
+        "bowling": "Slow left-arm orthodox",
+        "salary": 55000,
+        "email": "Sherwood@rosamond.me",
+        "address": {
+            "street": "Ellsworth Summit",
+            "suite": "Suite 729",
+            "city": "Aliyaview",
+            "zipcode": "45169",
+            "geo": {
+                "lat": "-14.3990",
+                "lng": "-120.7677"
+            }
+        },
+        "phone": "586.493.6943 x140",
+        "website": "jacynthe.com",
+        "company": {
+            "name": "Abernathy Group",
+            "catchPhrase": "Implemented secondary concept",
+            "bs": "e-enable extensible e-tailers"
+        }
+    },
+    {
+        "id": 9,
+        "fullName": "Thisara Perera",
+        "username": "Delphine",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/263600/263680.1.png",
+        "country": "Sri Lanka",
+        "age": "31 years 332 days",
+        "playingrole": "Bowling allrounder",
+        "batting": " Left-hand bat",
+        "bowling": "Right-arm medium-fast",
+        "salary": 80000,
+        "email": "Chaim_McDermott@dana.io",
+        "address": {
+            "street": "Dayna Park",
+            "suite": "Suite 449",
+            "city": "Bartholomebury",
+            "zipcode": "76495-3109",
+            "geo": {
+                "lat": "24.6463",
+                "lng": "-168.8889"
+            }
+        },
+        "phone": "(775)976-6794 x41206",
+        "website": "conrad.com",
+        "company": {
+            "name": "Yost and Sons",
+            "catchPhrase": "Switchable contextually-based project",
+            "bs": "aggregate real-time technologies"
+        }
+    },
+    {
+        "id": 10,
+        "fullName": "Luis Michael Reece",
+        "username": "Luis Reece",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/156600/156667.1.jpg",
+        "country": "England",
+        "age": "30 years 209 days",
+        "playingrole": "Allrounder",
+        "batting": "Left-hand bat",
+        "bowling": " Left-arm medium",
+        "salary": 50000,
+        "email": "Rey.Padberg@karina.biz",
+        "address": {
+            "street": "Kattie Turnpike",
+            "suite": "Suite 198",
+            "city": "Lebsackbury",
+            "zipcode": "31428-2261",
+            "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+            }
+        },
+        "phone": "024-648-3804",
+        "website": "ambrose.net",
+        "company": {
+            "name": "Hoeger LLC",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
+        }
+    },
+    {
+        "id": 11,
+        "fullName": "Sahibzada Mohammad Shahid Khan Afridi",
+        "username": "Shahid Afridi",
+        "img": "https://p.imgci.com/db/PICTURES/CMS/203000/203077.1.jpg",
+        "country": "Pakistan",
+        "age": "41 years 0 days",
+        "playingrole": "Allrounder",
+        "batting": "Right Hand Bat",
+        "bowling": "Legbreak googly",
+        "salary": 60000,
+        "email": "Rey.Padberg@karina.biz",
+        "address": {
+            "street": "Kattie Turnpike",
+            "suite": "Suite 198",
+            "city": "Lebsackbury",
+            "zipcode": "31428-2261",
+            "geo": {
+                "lat": "-38.2386",
+                "lng": "57.2232"
+            }
+        },
+        "phone": "024-648-3804",
+        "website": "ambrose.net",
+        "company": {
+            "name": "Hoeger LLC",
+            "catchPhrase": "Centralized empowering task-force",
+            "bs": "target end-to-end models"
+        }
+    }
+]
